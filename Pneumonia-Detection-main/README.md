@@ -10,7 +10,7 @@ Le projet s'articule autour des deux fichiers suivants :
 
 | Fichier | Description |
 | :--- | :--- |
-| [`fedi.ipynb`](./fedi.ipynb)[cite: 4] | Notebook dédié au prétraitement des données, à l'augmentation des images et à l'entraînement du modèle de classification par réseau de neurones convolutifs (CNN). |
+| [`pnemonie.ipynb`](./pnemonie.ipynb)[cite: 4] | Notebook dédié au prétraitement des données, à l'augmentation des images et à l'entraînement du modèle de classification par réseau de neurones convolutifs (CNN). |
 | [`test_data.ipynb`](./test_data.ipynb)[cite: 4] | Notebook dédié aux tests, à l'évaluation des performances sur des données invisibles et aux prédictions unitaires. |
 
 ---
@@ -34,8 +34,3 @@ Le projet s'articule autour des deux fichiers suivants :
 
 ---
 
-## 💻 Guide d'Utilisation
-
-1. **Cloner le dépôt :**
-   ```bash
-   git clone [https://github.com/Fedichaari6/Pneumonia-Detection.git](https://github.com/Fedichaari6/Pneumonia-Detection.git)
